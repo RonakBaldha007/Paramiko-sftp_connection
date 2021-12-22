@@ -1,4 +1,3 @@
-# pylint: disable= W0612,E1205, R0914
 """sftp server connection"""
 import logging
 import paramiko
